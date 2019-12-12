@@ -7,3 +7,4 @@ I used this tutorial (https://doc.rust-lang.org/book/ch02-00-guessing-game-tutor
 
 feel free to make edits I guess? I'm still learning. 
 
+~O
