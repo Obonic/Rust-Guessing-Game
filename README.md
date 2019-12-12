@@ -1,6 +1,8 @@
 # Rust-Guessing-Game
 Rust Guessing Game Tutorial 
 
+![Guessing Game](https://raw.githubusercontent.com/Obonic/Rust-Guessing-Game/master/Guessing%20Game%20Image.png)
+
 
 This certainly isn't all that impressive.  I've only begun learning programing and this is only so I can better learn git and how it works with github.  
 I used this tutorial (https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html) as a guide and edited a couple things that made sense to me to do so at the time.
